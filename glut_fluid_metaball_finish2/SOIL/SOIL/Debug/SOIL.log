@@ -1,0 +1,62 @@
+﻿Build started 17/09/2012 17:39:51.
+     1>Project "D:\Code Projects\SOIL\SOIL\SOIL.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\SOIL.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\SN Systems\Common\VSI\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt image_DXT.c image_helper.c SOIL.c stb_image_aug.c
+         stb_image_aug.c
+     1>d:\code projects\soil\soil\stb_image_aug.c(177): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\code projects\soil\soil\stb_image_aug.c(251): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\code projects\soil\soil\stb_image_aug.c(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\code projects\soil\soil\stb_image_aug.c(1557): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\code projects\soil\soil\stb_image_aug.c(2394): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\code projects\soil\soil\stb_image_aug.c(2709): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\code projects\soil\soil\stb_image_aug.c(2995): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\code projects\soil\soil\stb_image_aug.c(3209): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\code projects\soil\soil\stb_image_aug.c(3548): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\code projects\soil\soil\stb_image_aug.c(3644): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\code projects\soil\soil\stbi_dds_aug_c.h(362): warning C4018: '>' : signed/unsigned mismatch
+     1>d:\code projects\soil\soil\stbi_dds_aug_c.h(366): warning C4018: '>' : signed/unsigned mismatch
+     1>d:\code projects\soil\soil\stbi_dds_aug_c.h(390): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\code projects\soil\soil\stbi_dds_aug_c.h(427): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\code projects\soil\soil\stbi_dds_aug_c.h(498): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+         SOIL.c
+     1>d:\code projects\soil\soil\soil.c(1719): warning C4018: '<=' : signed/unsigned mismatch
+     1>d:\code projects\soil\soil\soil.c(1729): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\code projects\soil\soil\soil.c(1841): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+         image_helper.c
+     1>d:\code projects\soil\soil\image_helper.c(325): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>d:\code projects\soil\soil\image_helper.c(366): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\code projects\soil\soil\image_helper.c(373): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\code projects\soil\soil\image_helper.c(415): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\code projects\soil\soil\image_helper.c(422): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+         image_DXT.c
+     1>d:\code projects\soil\soil\image_dxt.c(92): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\SN Systems\Common\VSI\bin\Lib.exe /OUT:"D:\Code Projects\SOIL\Debug\SOIL.lib" /NOLOGO Debug\image_DXT.obj
+         Debug\image_helper.obj
+         Debug\SOIL.obj
+         Debug\stb_image_aug.obj
+         SOIL.vcxproj -> D:\Code Projects\SOIL\Debug\SOIL.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\SOIL.unsuccessfulbuild".
+         Touching "Debug\SOIL.lastbuildstate".
+     1>Done Building Project "D:\Code Projects\SOIL\SOIL\SOIL.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.38

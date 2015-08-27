@@ -1,0 +1,347 @@
+﻿Build started 09/08/2015 18:43:25.
+     1>Project "C:\Users\cmdadmin\Desktop\glut_fluid_9\particles_vs2013.vcxproj" on node 2 (Rebuild target(s)).
+     1>CudaClean:
+         cmd.exe /C "C:\Users\cmdadmin\AppData\Local\Temp\tmp19c921efdaf241d394cd13a9811fd29b.cmd"
+         "D:\CUDA\bin\nvcc.exe" -ccbin "D:\visual studio 2013\VC\bin\x86_amd64"  -I./ -I../../common/inc -I./ -ID:\CUDA\/include -I../../common/inc -ID:\CUDA\include  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile  -Xcompiler "/wd 4819"  -g   -DWIN32 -DWIN32 -D_MBCS -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MTd  " -o x64/Debug/FluidSystemCUDA.cu.obj "C:\Users\cmdadmin\Desktop\glut_fluid_9\FluidSystemCUDA.cu" -clean
+         
+         C:\Users\cmdadmin\Desktop\glut_fluid_9>"D:\CUDA\bin\nvcc.exe" -ccbin "D:\visual studio 2013\VC\bin\x86_amd64"  -I./ -I../../common/inc -I./ -ID:\CUDA\/include -I../../common/inc -ID:\CUDA\include  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile  -Xcompiler "/wd 4819"  -g   -DWIN32 -DWIN32 -D_MBCS -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MTd  " -o x64/Debug/FluidSystemCUDA.cu.obj "C:\Users\cmdadmin\Desktop\glut_fluid_9\FluidSystemCUDA.cu" -clean 
+         FluidSystemCUDA.cu
+       AddCudaCompileDeps:
+         D:\visual studio 2013\VC\bin\x86_amd64\cl.exe /E /nologo /showIncludes /TP /D__CUDACC__ /DWIN32 /DWIN32 /D_MBCS /D_MBCS /I./ /I../../common/inc /I./ /ID:\CUDA\/include /I../../common/inc /ID:\CUDA\bin /ID:\CUDA\include /I. /FIcuda_runtime.h /c C:\Users\cmdadmin\Desktop\glut_fluid_9\FluidSystemCUDA.cu 
+       CudaBuild:
+         Compiling CUDA source file FluidSystemCUDA.cu...
+         cmd.exe /C "C:\Users\cmdadmin\AppData\Local\Temp\tmp2e45dc33b7fc4d39a7f25c3417fb64c4.cmd"
+         "D:\CUDA\bin\nvcc.exe" -gencode=arch=compute_20,code=\"sm_20,compute_20\" -gencode=arch=compute_30,code=\"sm_30,compute_30\" -gencode=arch=compute_35,code=\"sm_35,compute_35\" -gencode=arch=compute_37,code=\"sm_37,compute_37\" -gencode=arch=compute_50,code=\"sm_50,compute_50\" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env --cl-version 2013 -ccbin "D:\visual studio 2013\VC\bin\x86_amd64"  -I./ -I../../common/inc -I./ -ID:\CUDA\/include -I../../common/inc -ID:\CUDA\include  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static -Xcompiler "/wd 4819"  -g   -DWIN32 -DWIN32 -D_MBCS -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MTd  " -o x64/Debug/FluidSystemCUDA.cu.obj "C:\Users\cmdadmin\Desktop\glut_fluid_9\FluidSystemCUDA.cu"
+         
+         C:\Users\cmdadmin\Desktop\glut_fluid_9>"D:\CUDA\bin\nvcc.exe" -gencode=arch=compute_20,code=\"sm_20,compute_20\" -gencode=arch=compute_30,code=\"sm_30,compute_30\" -gencode=arch=compute_35,code=\"sm_35,compute_35\" -gencode=arch=compute_37,code=\"sm_37,compute_37\" -gencode=arch=compute_50,code=\"sm_50,compute_50\" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env --cl-version 2013 -ccbin "D:\visual studio 2013\VC\bin\x86_amd64"  -I./ -I../../common/inc -I./ -ID:\CUDA\/include -I../../common/inc -ID:\CUDA\include  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static -Xcompiler "/wd 4819"  -g   -DWIN32 -DWIN32 -D_MBCS -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Zi /RTC1 /MTd  " -o x64/Debug/FluidSystemCUDA.cu.obj "C:\Users\cmdadmin\Desktop\glut_fluid_9\FluidSystemCUDA.cu" 
+     1>c:\users\cmdadmin\desktop\glut_fluid_9\Kernel_implement.cuh(574): warning : variable "colorf" was declared but never referenced
+     1>c:\users\cmdadmin\desktop\glut_fluid_9\Kernel_implement.cuh(574): warning : variable "colorf" was declared but never referenced
+     1>c:\users\cmdadmin\desktop\glut_fluid_9\Kernel_implement.cuh(574): warning : variable "colorf" was declared but never referenced
+     1>c:\users\cmdadmin\desktop\glut_fluid_9\Kernel_implement.cuh(574): warning : variable "colorf" was declared but never referenced
+     1>c:\users\cmdadmin\desktop\glut_fluid_9\Kernel_implement.cuh(574): warning : variable "colorf" was declared but never referenced
+     1>c:\users\cmdadmin\desktop\glut_fluid_9\Kernel_implement.cuh(574): warning : variable "colorf" was declared but never referenced
+     1>c:\users\cmdadmin\desktop\glut_fluid_9\Kernel_implement.cuh(574): warning : variable "colorf" was declared but never referenced
+     1>c:\users\cmdadmin\desktop\glut_fluid_9\Kernel_implement.cuh(574): warning : variable "colorf" was declared but never referenced
+     1>c:\users\cmdadmin\desktop\glut_fluid_9\Kernel_implement.cuh(574): warning : variable "colorf" was declared but never referenced
+     1>c:\users\cmdadmin\desktop\glut_fluid_9\Kernel_implement.cuh(574): warning : variable "colorf" was declared but never referenced
+     1>c:\users\cmdadmin\desktop\glut_fluid_9\Kernel_implement.cuh(574): warning : variable "colorf" was declared but never referenced
+     1>c:\users\cmdadmin\desktop\glut_fluid_9\Kernel_implement.cuh(574): warning : variable "colorf" was declared but never referenced
+         FluidSystemCUDA.cu
+     1>D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(241): warning C4267: 'argument' : conversion from 'size_t' to 'thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>::size_type', possible loss of data
+     1>D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(303): warning C4267: 'argument' : conversion from 'size_t' to 'thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>::size_type', possible loss of data
+     1>D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(319): warning C4267: 'argument' : conversion from 'size_t' to 'thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>::size_type', possible loss of data
+     1>D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(439): warning C4267: 'argument' : conversion from 'size_t' to 'thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>::size_type', possible loss of data
+     1>D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(250): warning C4267: 'argument' : conversion from 'size_t' to 'thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>,0x00>::size_type', possible loss of data
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(625) : see reference to function template instantiation 'thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>,0x00> thrust::system::cuda::detail::bulk_::par<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>>(ExecutionAgent,size_t)' being compiled
+                 with
+                 [
+                     ExecutionAgent=thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>
+                 ]
+     1>D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp(155): warning C4267: 'return' : conversion from 'size_t' to 'int', possible loss of data
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp(148) : while compiling class template member function 'int thrust::system::cuda::detail::bulk_::detail::cuda_launcher_base<0,thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>,0x00>,Closure>::choose_group_size(int)'
+                 with
+                 [
+                     Closure=thrust::system::cuda::detail::bulk_::detail::closure<thrust::system::cuda::detail::for_each_n_detail::for_each_kernel,thrust::tuple<thrust::system::cuda::detail::bulk_::detail::cursor<0>,thrust::zip_iterator<thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::detail::wrapped_function<integrate_functor,void>,unsigned int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+                 ]
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp(305) : see reference to function template instantiation 'int thrust::system::cuda::detail::bulk_::detail::cuda_launcher_base<0,thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>,0x00>,Closure>::choose_group_size(int)' being compiled
+                 with
+                 [
+                     Closure=thrust::system::cuda::detail::bulk_::detail::closure<thrust::system::cuda::detail::for_each_n_detail::for_each_kernel,thrust::tuple<thrust::system::cuda::detail::bulk_::detail::cursor<0>,thrust::zip_iterator<thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::detail::wrapped_function<integrate_functor,void>,unsigned int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+                 ]
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp(228) : see reference to class template instantiation 'thrust::system::cuda::detail::bulk_::detail::cuda_launcher_base<0,thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>,0x00>,Closure>' being compiled
+                 with
+                 [
+                     Closure=thrust::system::cuda::detail::bulk_::detail::closure<thrust::system::cuda::detail::for_each_n_detail::for_each_kernel,thrust::tuple<thrust::system::cuda::detail::bulk_::detail::cursor<0>,thrust::zip_iterator<thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::detail::wrapped_function<integrate_functor,void>,unsigned int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+                 ]
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/choose_sizes.inl(41) : see reference to class template instantiation 'thrust::system::cuda::detail::bulk_::detail::cuda_launcher<thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>,0x00>,Closure>' being compiled
+                 with
+                 [
+                     Closure=thrust::system::cuda::detail::bulk_::detail::closure<thrust::system::cuda::detail::for_each_n_detail::for_each_kernel,thrust::tuple<thrust::system::cuda::detail::bulk_::detail::cursor<0>,thrust::zip_iterator<thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::detail::wrapped_function<integrate_functor,void>,unsigned int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+                 ]
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/choose_sizes.inl(96) : see reference to function template instantiation 'thrust::pair<int,int> thrust::system::cuda::detail::bulk_::detail::choose_sizes<thrust::system::cuda::detail::bulk_::detail::closure<thrust::system::cuda::detail::for_each_n_detail::for_each_kernel,thrust::tuple<thrust::system::cuda::detail::bulk_::detail::cursor<0>,thrust::zip_iterator<thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::detail::wrapped_function<integrate_functor,void>,unsigned int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>>(thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>,0x00>,Closure)' being compiled
+                 with
+                 [
+                     Closure=thrust::system::cuda::detail::bulk_::detail::closure<thrust::system::cuda::detail::for_each_n_detail::for_each_kernel,thrust::tuple<thrust::system::cuda::detail::bulk_::detail::cursor<0>,thrust::zip_iterator<thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::detail::wrapped_function<integrate_functor,void>,unsigned int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+                 ]
+                 D:\CUDA\include\thrust/system/cuda/detail/for_each.inl(125) : see reference to function template instantiation 'thrust::pair<int,int> thrust::system::cuda::detail::bulk_::choose_sizes<thrust::system::cuda::detail::for_each_n_detail::for_each_kernel,thrust::system::cuda::detail::bulk_::detail::cursor<0>,RandomAccessIterator,thrust::detail::wrapped_function<integrate_functor,void>,unsigned int>(thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>,0x00>,Function,Arg1,Arg2,Arg3,Arg4)' being compiled
+                 with
+                 [
+                     RandomAccessIterator=thrust::zip_iterator<thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+         ,            Function=thrust::system::cuda::detail::for_each_n_detail::for_each_kernel
+         ,            Arg1=thrust::system::cuda::detail::bulk_::detail::cursor<0>
+         ,            Arg2=thrust::zip_iterator<thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+         ,            Arg3=thrust::detail::wrapped_function<integrate_functor,void>
+         ,            Arg4=unsigned int
+                 ]
+                 D:\CUDA\include\thrust/detail/tuple.inl(296) : see reference to function template instantiation 'thrust::detail::cons<T0,thrust::detail::cons<thrust::device_ptr<float>,thrust::detail::cons<thrust::device_ptr<float>,thrust::detail::map_tuple_to_cons<thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>::type>>>::cons<T2,T3,T4,T5,T6,T7,T8,T9,T10,const thrust::null_type>(T1 &,const thrust::device_ptr<float> &,T3 &,const thrust::null_type &,T5 &,T6 &,T7 &,T8 &,T9 &,T10 &)' being compiled
+                 with
+                 [
+                     T0=thrust::device_ptr<float4>
+         ,            T2=const thrust::device_ptr<float4>
+         ,            T3=const thrust::device_ptr<float>
+         ,            T4=const thrust::device_ptr<float>
+         ,            T5=const thrust::null_type
+         ,            T6=const thrust::null_type
+         ,            T7=const thrust::null_type
+         ,            T8=const thrust::null_type
+         ,            T9=const thrust::null_type
+         ,            T10=const thrust::null_type
+         ,            T1=const thrust::device_ptr<float4>
+                 ]
+                 D:\CUDA\include\thrust/detail/tuple.inl(296) : see reference to function template instantiation 'thrust::detail::cons<T0,thrust::detail::cons<thrust::device_ptr<float>,thrust::detail::cons<thrust::device_ptr<float>,thrust::detail::map_tuple_to_cons<thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>::type>>>::cons<T2,T3,T4,T5,T6,T7,T8,T9,T10,const thrust::null_type>(T1 &,const thrust::device_ptr<float> &,T3 &,const thrust::null_type &,T5 &,T6 &,T7 &,T8 &,T9 &,T10 &)' being compiled
+                 with
+                 [
+                     T0=thrust::device_ptr<float4>
+         ,            T2=const thrust::device_ptr<float4>
+         ,            T3=const thrust::device_ptr<float>
+         ,            T4=const thrust::device_ptr<float>
+         ,            T5=const thrust::null_type
+         ,            T6=const thrust::null_type
+         ,            T7=const thrust::null_type
+         ,            T8=const thrust::null_type
+         ,            T9=const thrust::null_type
+         ,            T10=const thrust::null_type
+         ,            T1=const thrust::device_ptr<float4>
+                 ]
+                 D:\CUDA\include\thrust/tuple.h(278) : see reference to function template instantiation 'thrust::detail::cons<T0,thrust::detail::cons<T0,thrust::detail::cons<thrust::device_ptr<float>,thrust::detail::cons<thrust::device_ptr<float>,thrust::detail::map_tuple_to_cons<thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>::type>>>>::cons<const thrust::device_ptr<float4>,const thrust::device_ptr<float4>,const thrust::device_ptr<float>,const thrust::device_ptr<float>,const thrust::null_type,const thrust::null_type,const thrust::null_type,const thrust::null_type,const thrust::null_type,const thrust::null_type>(T1 &,T2 &,T3 &,T4 &,T5 &,T6 &,T7 &,T8 &,T9 &,T10 &)' being compiled
+                 with
+                 [
+                     T0=thrust::device_ptr<float4>
+         ,            T1=const thrust::device_ptr<float4>
+         ,            T2=const thrust::device_ptr<float4>
+         ,            T3=const thrust::device_ptr<float>
+         ,            T4=const thrust::device_ptr<float>
+         ,            T5=const thrust::null_type
+         ,            T6=const thrust::null_type
+         ,            T7=const thrust::null_type
+         ,            T8=const thrust::null_type
+         ,            T9=const thrust::null_type
+         ,            T10=const thrust::null_type
+                 ]
+                 D:\CUDA\include\thrust/tuple.h(278) : see reference to function template instantiation 'thrust::detail::cons<T0,thrust::detail::cons<T0,thrust::detail::cons<thrust::device_ptr<float>,thrust::detail::cons<thrust::device_ptr<float>,thrust::detail::map_tuple_to_cons<thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>::type>>>>::cons<const thrust::device_ptr<float4>,const thrust::device_ptr<float4>,const thrust::device_ptr<float>,const thrust::device_ptr<float>,const thrust::null_type,const thrust::null_type,const thrust::null_type,const thrust::null_type,const thrust::null_type,const thrust::null_type>(T1 &,T2 &,T3 &,T4 &,T5 &,T6 &,T7 &,T8 &,T9 &,T10 &)' being compiled
+                 with
+                 [
+                     T0=thrust::device_ptr<float4>
+         ,            T1=const thrust::device_ptr<float4>
+         ,            T2=const thrust::device_ptr<float4>
+         ,            T3=const thrust::device_ptr<float>
+         ,            T4=const thrust::device_ptr<float>
+         ,            T5=const thrust::null_type
+         ,            T6=const thrust::null_type
+         ,            T7=const thrust::null_type
+         ,            T8=const thrust::null_type
+         ,            T9=const thrust::null_type
+         ,            T10=const thrust::null_type
+                 ]
+                 D:\CUDA\include\thrust/tuple.h(268) : while compiling class template member function 'thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>::tuple(const thrust::device_ptr<float4> &,const thrust::device_ptr<float4> &,const thrust::device_ptr<float> &,const thrust::device_ptr<float> &)'
+                 D:\CUDA\include\thrust/detail/tuple.inl(662) : see reference to function template instantiation 'thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>::tuple(const thrust::device_ptr<float4> &,const thrust::device_ptr<float4> &,const thrust::device_ptr<float> &,const thrust::device_ptr<float> &)' being compiled
+                 C:/Users/cmdadmin/Desktop/glut_fluid_9/FluidSystemCUDA.cu(79) : see reference to class template instantiation 'thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>' being compiled
+     1>D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp(85): warning C4267: 'return' : conversion from 'size_t' to 'int', possible loss of data
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp(84) : while compiling class template member function 'int thrust::system::cuda::detail::bulk_::detail::cuda_launcher_base<0,thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>,0x00>,Closure>::max_active_blocks_per_multiprocessor(const thrust::system::cuda::detail::bulk_::detail::device_properties_t &,const thrust::system::cuda::detail::bulk_::detail::function_attributes_t &,int,int)'
+                 with
+                 [
+                     Closure=thrust::system::cuda::detail::bulk_::detail::closure<thrust::system::cuda::detail::for_each_n_detail::for_each_kernel,thrust::tuple<thrust::system::cuda::detail::bulk_::detail::cursor<0>,thrust::zip_iterator<thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::detail::wrapped_function<integrate_functor,void>,unsigned int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+                 ]
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp(96) : see reference to function template instantiation 'int thrust::system::cuda::detail::bulk_::detail::cuda_launcher_base<0,thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>,0x00>,Closure>::max_active_blocks_per_multiprocessor(const thrust::system::cuda::detail::bulk_::detail::device_properties_t &,const thrust::system::cuda::detail::bulk_::detail::function_attributes_t &,int,int)' being compiled
+                 with
+                 [
+                     Closure=thrust::system::cuda::detail::bulk_::detail::closure<thrust::system::cuda::detail::for_each_n_detail::for_each_kernel,thrust::tuple<thrust::system::cuda::detail::bulk_::detail::cursor<0>,thrust::zip_iterator<thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::detail::wrapped_function<integrate_functor,void>,unsigned int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+                 ]
+     1>D:\CUDA\include\thrust/detail/pair.inl(46): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp(101) : see reference to function template instantiation 'thrust::pair<int,int>::pair<size_t,int>(const thrust::pair<size_t,int> &)' being compiled
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp(101) : see reference to function template instantiation 'thrust::pair<int,int>::pair<size_t,int>(const thrust::pair<size_t,int> &)' being compiled
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp(94) : while compiling class template member function 'thrust::pair<int,int> thrust::system::cuda::detail::bulk_::detail::cuda_launcher_base<0,thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>,0x00>,Closure>::dynamic_smem_occupancy_limit(const thrust::system::cuda::detail::bulk_::detail::device_properties_t &,const thrust::system::cuda::detail::bulk_::detail::function_attributes_t &,int,int)'
+                 with
+                 [
+                     Closure=thrust::system::cuda::detail::bulk_::detail::closure<thrust::system::cuda::detail::for_each_n_detail::for_each_kernel,thrust::tuple<thrust::system::cuda::detail::bulk_::detail::cursor<0>,thrust::zip_iterator<thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::detail::wrapped_function<integrate_functor,void>,unsigned int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+                 ]
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp(119) : see reference to function template instantiation 'thrust::pair<int,int> thrust::system::cuda::detail::bulk_::detail::cuda_launcher_base<0,thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>,0x00>,Closure>::dynamic_smem_occupancy_limit(const thrust::system::cuda::detail::bulk_::detail::device_properties_t &,const thrust::system::cuda::detail::bulk_::detail::function_attributes_t &,int,int)' being compiled
+                 with
+                 [
+                     Closure=thrust::system::cuda::detail::bulk_::detail::closure<thrust::system::cuda::detail::for_each_n_detail::for_each_kernel,thrust::tuple<thrust::system::cuda::detail::bulk_::detail::cursor<0>,thrust::zip_iterator<thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::detail::wrapped_function<integrate_functor,void>,unsigned int,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+                 ]
+     1>D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(458): warning C4267: 'argument' : conversion from 'size_t' to 'thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0200>::size_type', possible loss of data
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(667) : see reference to function template instantiation 'thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0200> thrust::system::cuda::detail::bulk_::con<0x0200,0x03>(size_t)' being compiled
+                 D:\CUDA\include\thrust/system/cuda/detail/scan.inl(323) : see reference to function template instantiation 'thrust::system::cuda::detail::bulk_::async_launch<thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0200>,0x00>> thrust::system::cuda::detail::bulk_::grid<0x0200,3>(size_t,size_t,cudaStream_t)' being compiled
+                 D:\CUDA\include\thrust/system/cuda/detail/scan.inl(458) : see reference to function template instantiation 'OutputIterator thrust::system::cuda::detail::scan_detail::exclusive_scan<thrust::system::cuda::detail::tag,InputIterator,OutputIterator,T,AssociativeOperator>(thrust::system::cuda::detail::execution_policy<thrust::system::cuda::detail::tag> &,InputIterator,InputIterator,OutputIterator,T,AssociativeOperator)' being compiled
+                 with
+                 [
+                     OutputIterator=thrust::device_ptr<unsigned int>
+         ,            InputIterator=thrust::device_ptr<unsigned int>
+         ,            T=ValueType
+         ,            AssociativeOperator=thrust::plus<unsigned int>
+                 ]
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp(148) : while compiling class template member function 'int thrust::system::cuda::detail::bulk_::detail::cuda_launcher_base<0,thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>,0x00>,Closure>::choose_group_size(int)'
+                 with
+                 [
+                     Closure=thrust::system::cuda::detail::bulk_::detail::closure<thrust::system::cuda::detail::for_each_n_detail::for_each_kernel,thrust::tuple<thrust::system::cuda::detail::bulk_::detail::cursor<0>,thrust::zip_iterator<thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::detail::wrapped_function<integrate_functor,void>,__int64,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+                 ]
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp(305) : see reference to function template instantiation 'int thrust::system::cuda::detail::bulk_::detail::cuda_launcher_base<0,thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x01>,0x00>,0x00>,Closure>::choose_group_size(int)' being compiled
+                 with
+                 [
+                     Closure=thrust::system::cuda::detail::bulk_::detail::closure<thrust::system::cuda::detail::for_each_n_detail::for_each_kernel,thrust::tuple<thrust::system::cuda::detail::bulk_::detail::cursor<0>,thrust::zip_iterator<thrust::tuple<thrust::device_ptr<float4>,thrust::device_ptr<float4>,thrust::device_ptr<float>,thrust::device_ptr<float>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>,thrust::detail::wrapped_function<integrate_functor,void>,__int64,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+                 ]
+     1>D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(458): warning C4267: 'argument' : conversion from 'size_t' to 'thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x09>,0x080>::size_type', possible loss of data
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(667) : see reference to function template instantiation 'thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x09>,0x080> thrust::system::cuda::detail::bulk_::con<0x080,0x09>(size_t)' being compiled
+                 D:\CUDA\include\thrust/system/cuda/detail/scan.inl(347) : see reference to function template instantiation 'thrust::system::cuda::detail::bulk_::async_launch<thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x09>,0x080>,0x00>> thrust::system::cuda::detail::bulk_::grid<0x080,0x09>(size_t,size_t,cudaStream_t)' being compiled
+     1>D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(458): warning C4267: 'argument' : conversion from 'size_t' to 'thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0100>::size_type', possible loss of data
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(667) : see reference to function template instantiation 'thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0100> thrust::system::cuda::detail::bulk_::con<0x0100,0x03>(size_t)' being compiled
+                 D:\CUDA\include\thrust/system/cuda/detail/scan.inl(356) : see reference to function template instantiation 'thrust::system::cuda::detail::bulk_::async_launch<thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0100>,0x00>> thrust::system::cuda::detail::bulk_::grid<0x0100,0x03>(size_t,size_t,cudaStream_t)' being compiled
+     1>D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(250): warning C4267: 'argument' : conversion from 'size_t' to 'thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0200>,0x00>::size_type', possible loss of data
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(311) : see reference to function template instantiation 'thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0200>,0x00> thrust::system::cuda::detail::bulk_::par<ExecutionAgent>(ExecutionAgent,size_t)' being compiled
+                 with
+                 [
+                     ExecutionAgent=thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0200>
+                 ]
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(667) : see reference to function template instantiation 'thrust::system::cuda::detail::bulk_::async_launch<thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0200>,0x00>> thrust::system::cuda::detail::bulk_::par<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0200>>(cudaStream_t,ExecutionAgent,size_t)' being compiled
+                 with
+                 [
+                     ExecutionAgent=thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0200>
+                 ]
+     1>D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(250): warning C4267: 'argument' : conversion from 'size_t' to 'thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x09>,0x080>,0x00>::size_type', possible loss of data
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(311) : see reference to function template instantiation 'thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x09>,0x080>,0x00> thrust::system::cuda::detail::bulk_::par<ExecutionAgent>(ExecutionAgent,size_t)' being compiled
+                 with
+                 [
+                     ExecutionAgent=thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x09>,0x080>
+                 ]
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(667) : see reference to function template instantiation 'thrust::system::cuda::detail::bulk_::async_launch<thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x09>,0x080>,0x00>> thrust::system::cuda::detail::bulk_::par<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x09>,0x080>>(cudaStream_t,ExecutionAgent,size_t)' being compiled
+                 with
+                 [
+                     ExecutionAgent=thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x09>,0x080>
+                 ]
+     1>D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(250): warning C4267: 'argument' : conversion from 'size_t' to 'thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0100>,0x00>::size_type', possible loss of data
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(311) : see reference to function template instantiation 'thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0100>,0x00> thrust::system::cuda::detail::bulk_::par<ExecutionAgent>(ExecutionAgent,size_t)' being compiled
+                 with
+                 [
+                     ExecutionAgent=thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0100>
+                 ]
+                 D:\CUDA\include\thrust/system/cuda/detail/bulk/execution_policy.hpp(667) : see reference to function template instantiation 'thrust::system::cuda::detail::bulk_::async_launch<thrust::system::cuda::detail::bulk_::parallel_group<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0100>,0x00>> thrust::system::cuda::detail::bulk_::par<thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0100>>(cudaStream_t,ExecutionAgent,size_t)' being compiled
+                 with
+                 [
+                     ExecutionAgent=thrust::system::cuda::detail::bulk_::concurrent_group<thrust::system::cuda::detail::bulk_::agent<0x03>,0x0100>
+                 ]
+     1>D:\CUDA\include\thrust/system/detail/generic/sequence.inl(48): warning C4244: 'return' : conversion from '__int64' to 'unsigned int', possible loss of data
+                 D:\CUDA\include\thrust/detail/internal_functional.h(322) : see reference to function template instantiation 'T thrust::system::detail::generic::sequence_detail::sequence_functor<T>::operator ()<__int64>(Index) const' being compiled
+                 with
+                 [
+                     T=unsigned int
+         ,            Index=__int64
+                 ]
+                 D:\CUDA\include\thrust/detail/internal_functional.h(322) : see reference to function template instantiation 'T thrust::system::detail::generic::sequence_detail::sequence_functor<T>::operator ()<__int64>(Index) const' being compiled
+                 with
+                 [
+                     T=unsigned int
+         ,            Index=__int64
+                 ]
+                 D:\CUDA\include\thrust/detail/function.h(60) : see reference to function template instantiation 'void thrust::detail::unary_transform_functor<thrust::system::detail::generic::sequence_detail::sequence_functor<unsigned int>>::operator ()<thrust::detail::tuple_of_iterator_references<__int64,unsigned int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>(Tuple)' being compiled
+                 with
+                 [
+                     Tuple=thrust::detail::tuple_of_iterator_references<__int64,unsigned int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>
+                 ]
+                 D:\CUDA\include\thrust/detail/function.h(60) : see reference to function template instantiation 'void thrust::detail::unary_transform_functor<thrust::system::detail::generic::sequence_detail::sequence_functor<unsigned int>>::operator ()<thrust::detail::tuple_of_iterator_references<__int64,unsigned int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>(Tuple)' being compiled
+                 with
+                 [
+                     Tuple=thrust::detail::tuple_of_iterator_references<__int64,unsigned int &,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>
+                 ]
+                 D:\CUDA\include\thrust/system/detail/sequential/for_each.h(83) : see reference to function template instantiation 'Result thrust::detail::wrapped_function<thrust::detail::unary_transform_functor<thrust::system::detail::generic::sequence_detail::sequence_functor<unsigned int>>,Result>::operator ()<thrust::detail::tuple_of_iterator_references<__int64,thrust::device_reference<T>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>(const Argument &) const' being compiled
+                 with
+                 [
+                     Result=void
+         ,            T=unsigned int
+         ,            Argument=thrust::detail::tuple_of_iterator_references<__int64,thrust::device_reference<unsigned int>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>
+                 ]
+                 D:\CUDA\include\thrust/system/detail/sequential/for_each.h(83) : see reference to function template instantiation 'Result thrust::detail::wrapped_function<thrust::detail::unary_transform_functor<thrust::system::detail::generic::sequence_detail::sequence_functor<unsigned int>>,Result>::operator ()<thrust::detail::tuple_of_iterator_references<__int64,thrust::device_reference<T>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>(const Argument &) const' being compiled
+                 with
+                 [
+                     Result=void
+         ,            T=unsigned int
+         ,            Argument=thrust::detail::tuple_of_iterator_references<__int64,thrust::device_reference<unsigned int>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>
+                 ]
+                 D:\CUDA\include\thrust/detail/for_each.inl(71) : see reference to function template instantiation 'InputIterator thrust::system::detail::sequential::for_each_n<thrust::detail::seq_t,InputIterator,Size,UnaryFunction>(thrust::system::detail::sequential::execution_policy<thrust::detail::seq_t> &,InputIterator,Size,UnaryFunction)' being compiled
+                 with
+                 [
+                     InputIterator=thrust::zip_iterator<thrust::tuple<thrust::counting_iterator<__int64,thrust::use_default,thrust::use_default,__int64>,thrust::device_ptr<unsigned int>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+         ,            Size=__int64
+         ,            UnaryFunction=thrust::detail::unary_transform_functor<thrust::system::detail::generic::sequence_detail::sequence_functor<unsigned int>>
+                 ]
+                 D:\CUDA\include\thrust/system/cuda/detail/for_each.inl(152) : see reference to function template instantiation 'InputIterator thrust::for_each_n<DerivedPolicy,RandomAccessIterator,Size,UnaryFunction>(const thrust::detail::execution_policy_base<DerivedPolicy> &,InputIterator,Size,UnaryFunction)' being compiled
+                 with
+                 [
+                     InputIterator=thrust::zip_iterator<thrust::tuple<thrust::counting_iterator<__int64,thrust::use_default,thrust::use_default,__int64>,thrust::device_ptr<unsigned int>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+         ,            DerivedPolicy=thrust::detail::seq_t
+         ,            RandomAccessIterator=thrust::zip_iterator<thrust::tuple<thrust::counting_iterator<__int64,thrust::use_default,thrust::use_default,__int64>,thrust::device_ptr<unsigned int>,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type,thrust::null_type>>
+         ,            Size=__int64
+         ,            UnaryFunction=thrust::detail::unary_transform_functor<thrust::system::detail::generic::sequence_detail::sequence_functor<unsigned int>>
+                 ]
+       ClCompile:
+         D:\visual studio 2013\VC\bin\x86_amd64\CL.exe /c /I./ /ID:\CUDA\/include /I../../common/inc /Zi /nologo /W3 /WX- /Od /D WIN32 /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64/Debug/" /Fd"x64/Debug/vc120.pdb" /Gd /TP /errorReport:prompt FluidSystem.cpp framebufferObject.cpp GLSLProgram.cpp GlutLoop.cpp Main_fluid.cpp render.cpp shaders.cpp
+         shaders.cpp
+         render.cpp
+     1>render.cpp(129): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>render.cpp(370): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\visual studio 2013\VC\include\stdio.h(211) : see declaration of 'fopen'
+         Main_fluid.cpp
+     1>D:\visual studio 2013\VC\include\xutility(2904): warning C4244: 'initializing' : conversion from '__int64' to 'ptrdiff_t', possible loss of data
+     1>D:\visual studio 2013\VC\include\xutility(2905): warning C4244: 'initializing' : conversion from '__int64' to 'ptrdiff_t', possible loss of data
+     1>c:\users\cmdadmin\desktop\glut_fluid_9\Glutloop.cpp(407): warning C4101: 'mods' : unreferenced local variable
+     1>D:\visual studio 2013\VC\include\xstring(1297): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+                 D:\visual studio 2013\VC\include\xstring(1294) : while compiling class template member function 'std::_String_iterator<std::_String_val<std::_Simple_types<char>>> std::basic_string<char,std::char_traits<char>,std::allocator<char>>::insert(std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>,_Elem)'
+                 with
+                 [
+                     _Elem=char
+                 ]
+                 D:\visual studio 2013\VC\include\xstring(1709) : see reference to function template instantiation 'std::_String_iterator<std::_String_val<std::_Simple_types<char>>> std::basic_string<char,std::char_traits<char>,std::allocator<char>>::insert(std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>,_Elem)' being compiled
+                 with
+                 [
+                     _Elem=char
+                 ]
+                 D:\visual studio 2013\VC\include\stdexcept(31) : see reference to class template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' being compiled
+     1>D:\visual studio 2013\VC\include\xstring(204): warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
+                 D:\visual studio 2013\VC\include\xstring(202) : while compiling class template member function 'int std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>::operator -(const std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>> &) const'
+                 D:\visual studio 2013\VC\include\xstring(2267) : see reference to function template instantiation 'int std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>::operator -(const std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>> &) const' being compiled
+                 D:\CUDA\common\inc\helper_string.h(451) : see reference to class template instantiation 'std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>' being compiled
+         GlutLoop.cpp
+     1>D:\visual studio 2013\VC\include\xutility(2904): warning C4244: 'initializing' : conversion from '__int64' to 'ptrdiff_t', possible loss of data
+     1>D:\visual studio 2013\VC\include\xutility(2905): warning C4244: 'initializing' : conversion from '__int64' to 'ptrdiff_t', possible loss of data
+     1>GlutLoop.cpp(407): warning C4101: 'mods' : unreferenced local variable
+     1>D:\visual studio 2013\VC\include\xstring(1297): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+                 D:\visual studio 2013\VC\include\xstring(1294) : while compiling class template member function 'std::_String_iterator<std::_String_val<std::_Simple_types<char>>> std::basic_string<char,std::char_traits<char>,std::allocator<char>>::insert(std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>,_Elem)'
+                 with
+                 [
+                     _Elem=char
+                 ]
+                 D:\visual studio 2013\VC\include\xstring(1709) : see reference to function template instantiation 'std::_String_iterator<std::_String_val<std::_Simple_types<char>>> std::basic_string<char,std::char_traits<char>,std::allocator<char>>::insert(std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>,_Elem)' being compiled
+                 with
+                 [
+                     _Elem=char
+                 ]
+                 D:\visual studio 2013\VC\include\stdexcept(31) : see reference to class template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' being compiled
+     1>D:\visual studio 2013\VC\include\xstring(204): warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
+                 D:\visual studio 2013\VC\include\xstring(202) : while compiling class template member function 'int std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>::operator -(const std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>> &) const'
+                 D:\visual studio 2013\VC\include\xstring(2267) : see reference to function template instantiation 'int std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>::operator -(const std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>> &) const' being compiled
+                 D:\CUDA\common\inc\helper_string.h(451) : see reference to class template instantiation 'std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>' being compiled
+         GLSLProgram.cpp
+         framebufferObject.cpp
+     1>D:\visual studio 2013\VC\include\xutility(2904): warning C4244: 'initializing' : conversion from '__int64' to 'ptrdiff_t', possible loss of data
+     1>D:\visual studio 2013\VC\include\xutility(2905): warning C4244: 'initializing' : conversion from '__int64' to 'ptrdiff_t', possible loss of data
+         FluidSystem.cpp
+     1>FluidSystem.cpp(336): warning C4101: 'dPos' : unreferenced local variable
+     1>FluidSystem.cpp(357): warning C4101: 'dPos' : unreferenced local variable
+     1>FluidSystem.cpp(569): warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+         Generating Code...
+       Link:
+         D:\visual studio 2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"../../bin/win64/Debug//particles.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\CUDA\lib\x64 /LIBPATH:../../common/lib/x64 glew64.lib cudart_static.lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"../../bin/win64/Debug/particles.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"../../bin/win64/Debug/particles.lib" /MACHINE:X64 x64/Debug/FluidSystemCUDA.cu.obj
+         x64/Debug/FluidSystem.obj
+         x64/Debug/framebufferObject.obj
+         x64/Debug/GLSLProgram.obj
+         x64/Debug/GlutLoop.obj
+         x64/Debug/Main_fluid.obj
+         x64/Debug/render.obj
+         x64/Debug/shaders.obj
+            Creating library ../../bin/win64/Debug/particles.lib and object ../../bin/win64/Debug/particles.exp
+         particles_vs2013.vcxproj -> C:\Users\cmdadmin\Desktop\glut_fluid_9\../../bin/win64/Debug/particles.exe
+     1>Done Building Project "C:\Users\cmdadmin\Desktop\glut_fluid_9\particles_vs2013.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:03:17.85
