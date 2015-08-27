@@ -1,0 +1,20 @@
+﻿Build started 20/08/2015 10:15:15.
+     1>Project "C:\Users\cmdadmin\Desktop\glut_fluid_buoyancy\particles_vs2013.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\visual studio 2013\VC\bin\x86_amd64\CL.exe /c /I./ /ID:\CUDA\/include /I../../common/inc /Zi /nologo /W3 /WX- /Od /D WIN32 /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64/Debug/" /Fd"x64/Debug/vc120.pdb" /Gd /TP /errorReport:prompt shaders.cpp
+         shaders.cpp
+       Link:
+         D:\visual studio 2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"../../bin/win64/Debug//particles.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\CUDA\lib\x64 /LIBPATH:../../common/lib/x64 glew64.lib cudart_static.lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"../../bin/win64/Debug/particles.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"../../bin/win64/Debug/particles.lib" /MACHINE:X64 x64/Debug/FluidSystemCUDA.cu.obj
+         x64/Debug/FluidSystem.obj
+         x64/Debug/framebufferObject.obj
+         x64/Debug/GLSLProgram.obj
+         x64/Debug/GlutLoop.obj
+         x64/Debug/Main_fluid.obj
+         x64/Debug/render.obj
+         x64/Debug/shaders.obj
+         particles_vs2013.vcxproj -> C:\Users\cmdadmin\Desktop\glut_fluid_buoyancy\../../bin/win64/Debug/particles.exe
+     1>Done Building Project "C:\Users\cmdadmin\Desktop\glut_fluid_buoyancy\particles_vs2013.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.39

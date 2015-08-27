@@ -1,0 +1,1284 @@
+D:\CUDA\/include\cuda_runtime.h
+d:\cuda\include\host_config.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\sal.h
+D:\visual studio 2013\VC\include\ConcurrencySal.h
+D:\visual studio 2013\VC\include\vadefs.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\host_defines.h
+D:\visual studio 2013\VC\include\limits.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\stddef.h
+D:\visual studio 2013\VC\include\crtdefs.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\channel_descriptor.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\cuda_runtime_api.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\cuda_device_runtime_api.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\cuda_runtime_api.h
+d:\cuda\include\driver_functions.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\vector_functions.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\vector_functions.hpp
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\common_functions.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+D:\visual studio 2013\VC\include\string.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\time.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\wtime.inl
+D:\visual studio 2013\VC\include\time.inl
+d:\cuda\include\math_functions.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+D:\visual studio 2013\VC\include\math.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\stdlib.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\cmath
+D:\visual studio 2013\VC\include\yvals.h
+D:\visual studio 2013\VC\include\xkeycheck.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\use_ansi.h
+D:\visual studio 2013\VC\include\math.h
+D:\visual studio 2013\VC\include\xtgmath.h
+D:\visual studio 2013\VC\include\xtr1common
+D:\visual studio 2013\VC\include\cstdlib
+d:\cuda\include\math_functions.hpp
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\math_functions_dbl_ptx3.h
+d:\cuda\include\math_functions_dbl_ptx3.hpp
+d:\cuda\include\cuda_surface_types.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\channel_descriptor.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\cuda_texture_types.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\channel_descriptor.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\device_functions.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\device_functions.hpp
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\device_atomic_functions.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\device_atomic_functions.hpp
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\device_double_functions.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\device_double_functions.hpp
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\sm_20_atomic_functions.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\sm_20_atomic_functions.hpp
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\sm_32_atomic_functions.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\sm_32_atomic_functions.hpp
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\sm_35_atomic_functions.h
+d:\cuda\include\sm_32_atomic_functions.h
+d:\cuda\include\sm_20_intrinsics.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\sm_20_intrinsics.hpp
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\sm_30_intrinsics.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\sm_30_intrinsics.hpp
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\sm_32_intrinsics.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\sm_32_intrinsics.hpp
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\sm_35_intrinsics.h
+d:\cuda\include\sm_32_intrinsics.h
+d:\cuda\include\surface_functions.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\cuda_surface_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\vector_functions.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\surface_functions.hpp
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\cuda_surface_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\vector_functions.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\texture_fetch_functions.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\cuda_texture_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_functions.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\texture_fetch_functions.hpp
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\cuda_texture_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_functions.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\texture_indirect_functions.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\vector_functions.h
+d:\cuda\include\texture_indirect_functions.hpp
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\vector_functions.h
+d:\cuda\include\surface_indirect_functions.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\vector_functions.h
+d:\cuda\include\surface_indirect_functions.hpp
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+d:\cuda\include\vector_functions.h
+d:\cuda\include\device_launch_parameters.h
+d:\cuda\include\vector_types.h
+D:\CUDA\common\inc\GL/freeglut.h
+d:\cuda\common\inc\gl\freeglut_std.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\windows.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\sdkddkver.h
+D:\visual studio 2013\VC\include\excpt.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\stdarg.h
+D:\visual studio 2013\VC\include\crtdefs.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\windef.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\driverspecs.h
+c:\program files (x86)\windows kits\8.1\include\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h
+D:\visual studio 2013\VC\include\ctype.h
+D:\visual studio 2013\VC\include\crtdefs.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\guiddef.h
+c:\program files (x86)\windows kits\8.1\include\shared\pshpack4.h
+c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+c:\program files (x86)\windows kits\8.1\include\shared\pshpack4.h
+c:\program files (x86)\windows kits\8.1\include\shared\pshpack2.h
+c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+c:\program files (x86)\windows kits\8.1\include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+c:\program files (x86)\windows kits\8.1\include\shared\pshpack8.h
+c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+c:\program files (x86)\windows kits\8.1\include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winbase.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\processenv.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\bemapiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winuser.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnls.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnls.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\wincon.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winver.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winreg.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\reason.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\cderr.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dde.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\ddeml.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dlgs.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\lzexpand.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mmsystem.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mciapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mmiscapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mmiscapi2.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\playsoundapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mmeapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\timeapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\joystickapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\nb30.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\shellapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winperf.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsock.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\inaddr.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\wincrypt.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\bcrypt.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\ncrypt.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dpapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winefs.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winscard.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypes.h
+c:\program files (x86)\windows kits\8.1\include\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+c:\program files (x86)\windows kits\8.1\include\shared\wtypesbase.h
+c:\program files (x86)\windows kits\8.1\include\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winioctl.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\winsmcrd.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winspool.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\prsht.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\ole2.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\objbase.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\cguid.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\objidl.h
+c:\program files (x86)\windows kits\8.1\include\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\urlmon.h
+c:\program files (x86)\windows kits\8.1\include\um\oleidl.h
+c:\program files (x86)\windows kits\8.1\include\um\servprov.h
+c:\program files (x86)\windows kits\8.1\include\um\msxml.h
+c:\program files (x86)\windows kits\8.1\include\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\propidl.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\commdlg.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\prsht.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\winsvc.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mcx.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\imm.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\ime_cmodes.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\windowsx.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\mmsystem.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/glu.h
+d:\cuda\common\inc\gl\freeglut_ext.h
+D:\visual studio 2013\VC\include\cstdio
+D:\visual studio 2013\VC\include\stdio.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\swprintf.inl
+D:\CUDA\/include\cuda_runtime.h
+D:\CUDA\/include\cuda_gl_interop.h
+d:\cuda\include\builtin_types.h
+d:\cuda\include\device_types.h
+d:\cuda\include\driver_types.h
+d:\cuda\include\surface_types.h
+d:\cuda\include\texture_types.h
+d:\cuda\include\vector_types.h
+d:\cuda\include\host_defines.h
+D:\CUDA\common\inc\helper_cuda.h
+D:\CUDA\common\inc\helper_string.h
+D:\visual studio 2013\VC\include\fstream
+D:\visual studio 2013\VC\include\istream
+D:\visual studio 2013\VC\include\ostream
+D:\visual studio 2013\VC\include\ios
+D:\visual studio 2013\VC\include\xlocnum
+D:\visual studio 2013\VC\include\climits
+D:\visual studio 2013\VC\include\streambuf
+D:\visual studio 2013\VC\include\xiosbase
+D:\visual studio 2013\VC\include\xlocale
+D:\visual studio 2013\VC\include\cstring
+D:\visual studio 2013\VC\include\stdexcept
+D:\visual studio 2013\VC\include\exception
+D:\visual studio 2013\VC\include\xstddef
+D:\visual studio 2013\VC\include\cstddef
+D:\visual studio 2013\VC\include\initializer_list
+D:\visual studio 2013\VC\include\eh.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\malloc.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\xstring
+D:\visual studio 2013\VC\include\xmemory0
+D:\visual studio 2013\VC\include\limits
+D:\visual studio 2013\VC\include\ymath.h
+D:\visual studio 2013\VC\include\cfloat
+D:\visual studio 2013\VC\include\float.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\crtwrn.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\cwchar
+D:\visual studio 2013\VC\include\wchar.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\new
+D:\visual studio 2013\VC\include\xutility
+D:\visual studio 2013\VC\include\utility
+D:\visual studio 2013\VC\include\iosfwd
+D:\visual studio 2013\VC\include\crtdbg.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\type_traits
+D:\visual studio 2013\VC\include\xrefwrap
+D:\visual studio 2013\VC\include\xatomic0.h
+D:\visual studio 2013\VC\include\intrin.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\setjmp.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\immintrin.h
+D:\visual studio 2013\VC\include\wmmintrin.h
+D:\visual studio 2013\VC\include\nmmintrin.h
+D:\visual studio 2013\VC\include\smmintrin.h
+D:\visual studio 2013\VC\include\tmmintrin.h
+D:\visual studio 2013\VC\include\pmmintrin.h
+D:\visual studio 2013\VC\include\emmintrin.h
+D:\visual studio 2013\VC\include\xmmintrin.h
+D:\visual studio 2013\VC\include\mmintrin.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\ammintrin.h
+D:\visual studio 2013\VC\include\typeinfo
+D:\visual studio 2013\VC\include\xlocinfo
+D:\visual studio 2013\VC\include\xlocinfo.h
+D:\visual studio 2013\VC\include\locale.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\xdebug
+D:\visual studio 2013\VC\include\xfacet
+D:\visual studio 2013\VC\include\system_error
+D:\visual studio 2013\VC\include\cerrno
+D:\visual studio 2013\VC\include\errno.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\share.h
+D:\visual studio 2013\VC\include\string
+D:\visual studio 2013\VC\include\iterator
+D:\CUDA\common\inc\helper_cuda_gl.h
+D:\CUDA\common\inc\helper_functions.h
+D:\visual studio 2013\VC\include\assert.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\CUDA\common\inc\exception.h
+D:\visual studio 2013\VC\include\iostream
+D:\visual studio 2013\VC\include\sstream
+D:\visual studio 2013\VC\include\math.h
+D:\visual studio 2013\VC\include\vector
+D:\visual studio 2013\VC\include\xmemory
+D:\visual studio 2013\VC\include\algorithm
+D:\CUDA\common\inc\helper_timer.h
+D:\CUDA\common\inc\helper_image.h
+D:\visual studio 2013\VC\include\assert.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\visual studio 2013\VC\include\math.h
+D:\CUDA\/include\thrust/device_ptr.h
+D:\CUDA\/include\thrust/detail/config.h
+D:\CUDA\/include\thrust/detail/config/config.h
+D:\CUDA\/include\thrust/detail/config/simple_defines.h
+D:\CUDA\/include\thrust/detail/config/compiler.h
+D:\CUDA\/include\cuda.h
+D:\CUDA\/include\thrust/detail/config/host_system.h
+D:\CUDA\/include\thrust/detail/config/device_system.h
+D:\CUDA\/include\thrust/detail/config/host_device.h
+D:\CUDA\/include\thrust/detail/config/debug.h
+D:\CUDA\/include\thrust/detail/config/compiler_fence.h
+D:\CUDA\/include\thrust/detail/config/forceinline.h
+D:\CUDA\/include\thrust/detail/config/hd_warning_disable.h
+D:\CUDA\/include\thrust/detail/config/global_workarounds.h
+D:\CUDA\/include\thrust/memory.h
+D:\CUDA\/include\thrust/detail/type_traits/pointer_traits.h
+D:\CUDA\/include\thrust/detail/type_traits.h
+D:\CUDA\/include\thrust/detail/type_traits/has_trivial_assign.h
+D:\CUDA\/include\thrust/detail/type_traits/is_metafunction_defined.h
+D:\CUDA\/include\thrust/detail/type_traits/has_nested_type.h
+D:\CUDA\/include\thrust/iterator/iterator_traits.h
+D:\CUDA\/include\thrust/iterator/detail/iterator_traversal_tags.h
+D:\CUDA\/include\thrust/iterator/detail/host_system_tag.h
+D:\CUDA\/include\thrust/system/cpp/detail/execution_policy.h
+D:\CUDA\/include\thrust/system/detail/sequential/execution_policy.h
+D:\CUDA\/include\thrust/detail/execution_policy.h
+D:\CUDA\/include\thrust/iterator/detail/device_system_tag.h
+D:\CUDA\/include\thrust/system/cuda/detail/execution_policy.h
+D:\CUDA\/include\thrust/iterator/detail/any_system_tag.h
+D:\CUDA\/include\thrust/iterator/detail/iterator_traits.inl
+D:\CUDA\/include\thrust/iterator/iterator_categories.h
+D:\CUDA\/include\thrust/iterator/detail/iterator_category_with_system_and_traversal.h
+D:\CUDA\/include\thrust/iterator/detail/universal_categories.h
+D:\CUDA\/include\thrust/iterator/detail/iterator_category_to_traversal.h
+D:\CUDA\/include\thrust/iterator/detail/iterator_category_to_system.h
+D:\CUDA\/include\thrust/detail/pointer.h
+D:\CUDA\/include\thrust/iterator/iterator_adaptor.h
+D:\CUDA\/include\thrust/iterator/iterator_facade.h
+D:\CUDA\/include\thrust/iterator/detail/iterator_facade_category.h
+D:\CUDA\/include\thrust/iterator/detail/is_iterator_category.h
+D:\CUDA\/include\thrust/iterator/detail/distance_from_result.h
+D:\CUDA\/include\thrust/detail/use_default.h
+D:\CUDA\/include\thrust/iterator/detail/iterator_adaptor_base.h
+D:\CUDA\/include\thrust/detail/reference_forward_declaration.h
+D:\CUDA\/include\thrust/detail/pointer.inl
+D:\CUDA\/include\thrust/detail/reference.h
+D:\CUDA\/include\thrust/detail/reference.inl
+D:\CUDA\/include\thrust/system/detail/generic/select_system.h
+D:\CUDA\/include\thrust/iterator/detail/minimum_system.h
+D:\CUDA\/include\thrust/detail/type_traits/minimum_type.h
+D:\CUDA\/include\thrust/system/detail/generic/type_traits.h
+D:\CUDA\/include\thrust/system/detail/generic/memory.h
+D:\CUDA\/include\thrust/system/detail/generic/tag.h
+D:\CUDA\/include\thrust/pair.h
+D:\CUDA\/include\thrust/detail/pair.inl
+D:\CUDA\/include\thrust/detail/swap.h
+D:\CUDA\/include\thrust/system/detail/generic/memory.inl
+D:\CUDA\/include\thrust/system/detail/adl/malloc_and_free.h
+D:\CUDA\/include\thrust/system/detail/sequential/malloc_and_free.h
+D:\CUDA\/include\thrust/detail/raw_pointer_cast.h
+D:\CUDA\/include\thrust/system/cpp/detail/malloc_and_free.h
+D:\CUDA\/include\thrust/system/cuda/detail/malloc_and_free.h
+D:\CUDA\/include\thrust/system/cuda/detail/guarded_cuda_runtime_api.h
+D:\CUDA\/include\cuda_runtime_api.h
+D:\CUDA\/include\thrust/system/system_error.h
+D:\CUDA\/include\thrust/system/error_code.h
+D:\CUDA\/include\thrust/system/detail/errno.h
+D:\CUDA\/include\thrust/system/detail/error_category.inl
+D:\CUDA\/include\thrust/functional.h
+D:\visual studio 2013\VC\include\functional
+D:\visual studio 2013\VC\include\xfunctional
+D:\visual studio 2013\VC\include\tuple
+D:\CUDA\/include\thrust/detail/functional/placeholder.h
+D:\CUDA\/include\thrust/detail/functional/actor.h
+D:\CUDA\/include\thrust/tuple.h
+D:\CUDA\/include\thrust/detail/tuple.inl
+D:\CUDA\/include\thrust/detail/functional/value.h
+D:\CUDA\/include\thrust/detail/functional/composite.h
+D:\CUDA\/include\thrust/detail/functional/operators/assignment_operator.h
+D:\CUDA\/include\thrust/detail/functional/operators/operator_adaptors.h
+D:\CUDA\/include\thrust/detail/type_traits/result_of.h
+D:\CUDA\/include\thrust/detail/type_traits/function_traits.h
+D:\CUDA\/include\thrust/detail/functional/actor.inl
+D:\CUDA\/include\thrust/detail/functional/argument.h
+D:\CUDA\/include\thrust/detail/functional.inl
+D:\CUDA\/include\thrust/detail/functional/operators.h
+D:\CUDA\/include\thrust/detail/functional/operators/arithmetic_operators.h
+D:\CUDA\/include\thrust/detail/functional/operators/relational_operators.h
+D:\CUDA\/include\thrust/detail/functional/operators/logical_operators.h
+D:\CUDA\/include\thrust/detail/functional/operators/bitwise_operators.h
+D:\CUDA\/include\thrust/detail/functional/operators/compound_assignment_operators.h
+D:\CUDA\/include\thrust/system/detail/error_code.inl
+D:\CUDA\/include\thrust/system/detail/error_condition.inl
+D:\CUDA\/include\thrust/system/detail/system_error.inl
+D:\CUDA\/include\thrust/system/cuda/error.h
+D:\CUDA\/include\thrust/system/cuda/detail/guarded_driver_types.h
+D:\CUDA\/include\driver_types.h
+D:\CUDA\/include\thrust/system/cuda/detail/error.inl
+D:\CUDA\/include\thrust/system/detail/bad_alloc.h
+D:\CUDA\/include\thrust/system/cuda/detail/throw_on_error.h
+D:\CUDA\/include\thrust/system_error.h
+D:\CUDA\/include\thrust/system/cuda/detail/terminate.h
+D:\CUDA\/include\thrust/system/cuda/detail/bulk.h
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/bulk.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/config.hpp
+D:\CUDA\/include\thrust/version.h
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/execution_policy.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/future.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/guarded_cuda_runtime_api.hpp
+D:\CUDA\/include\cuda_runtime_api.h
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/throw_on_error.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/terminate.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/runtime_introspection.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launch_config.hpp
+D:\CUDA\/include\thrust/detail/minmax.h
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/runtime_introspection.inl
+D:\CUDA\/include\thrust/detail/util/blocking.h
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/choose_sizes.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/choose_sizes.inl
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/closure.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/apply_from_tuple.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/cuda_launcher.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/alignment.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/cuda_task.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/malloc.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/pointer_traits.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/uninitialized.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/tuple_transform.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/tuple_meta_transform.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/triple_chevron_launcher.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/cuda_launcher/parameter_ptr.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/synchronize.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/async.hpp
+D:\CUDA\/include\thrust/detail/cstdint.h
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/async.inl
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/algorithm.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/algorithm/copy.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/is_contiguous_iterator.hpp
+D:\CUDA\/include\thrust/iterator/detail/is_trivial_iterator.h
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/algorithm/reduce.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/iterator/strided_iterator.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/algorithm/scan.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/algorithm/accumulate.hpp
+D:\CUDA\/include\thrust/detail/type_traits/iterator/is_output_iterator.h
+D:\CUDA\/include\thrust/iterator/detail/any_assign.h
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/algorithm/merge.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/algorithm/gather.hpp
+D:\CUDA\/include\thrust/iterator/permutation_iterator.h
+D:\CUDA\/include\thrust/iterator/detail/permutation_iterator_base.h
+D:\CUDA\/include\thrust/iterator/counting_iterator.h
+D:\CUDA\/include\thrust/iterator/detail/counting_iterator.inl
+D:\CUDA\/include\thrust/detail/numeric_traits.h
+D:\CUDA\/include\thrust/iterator/detail/join_iterator.h
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/algorithm/scatter.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/algorithm/adjacent_difference.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/algorithm/reduce_by_key.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/head_flags.hpp
+D:\CUDA\/include\thrust/iterator/transform_iterator.h
+D:\CUDA\/include\thrust/iterator/detail/transform_iterator.inl
+D:\CUDA\/include\thrust/iterator/zip_iterator.h
+D:\CUDA\/include\thrust/iterator/detail/zip_iterator_base.h
+D:\CUDA\/include\thrust/iterator/detail/minimum_category.h
+D:\CUDA\/include\thrust/detail/tuple_meta_transform.h
+D:\CUDA\/include\thrust/detail/tuple_transform.h
+D:\CUDA\/include\thrust/iterator/detail/tuple_of_iterator_references.h
+D:\CUDA\/include\thrust/iterator/detail/zip_iterator.inl
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/detail/tail_flags.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/algorithm/sort.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/algorithm/detail/stable_merge_sort.hpp
+D:\CUDA\/include\thrust/system/cuda/detail/bulk/iterator.hpp
+D:\CUDA\/include\thrust/detail/malloc_and_free.h
+D:\CUDA\/include\thrust/detail/seq.h
+D:\CUDA\/include\thrust/detail/execute_with_allocator.h
+D:\CUDA\/include\thrust/detail/allocator/allocator_traits.h
+D:\CUDA\/include\thrust/detail/type_traits/has_member_function.h
+D:\CUDA\/include\thrust/detail/allocator/allocator_traits.inl
+D:\CUDA\/include\thrust/detail/type_traits/is_call_possible.h
+D:\CUDA\/include\thrust/detail/integer_traits.h
+D:\CUDA\/include\thrust/detail/static_assert.h
+D:\CUDA\/include\thrust/system/detail/adl/get_value.h
+D:\CUDA\/include\thrust/system/detail/sequential/get_value.h
+D:\CUDA\/include\thrust/system/cpp/detail/get_value.h
+D:\CUDA\/include\thrust/system/cuda/detail/get_value.h
+D:\CUDA\/include\thrust/system/cuda/detail/assign_value.h
+D:\CUDA\/include\thrust/detail/copy.h
+D:\CUDA\/include\thrust/detail/copy.inl
+D:\CUDA\/include\thrust/system/detail/generic/copy.h
+D:\CUDA\/include\thrust/system/detail/generic/copy.inl
+D:\CUDA\/include\thrust/detail/internal_functional.h
+D:\CUDA\/include\thrust/detail/raw_reference_cast.h
+D:\visual studio 2013\VC\include\memory
+D:\visual studio 2013\VC\include\stdint.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\CUDA\/include\thrust/transform.h
+D:\CUDA\/include\thrust/detail/transform.inl
+D:\CUDA\/include\thrust/system/detail/generic/transform.h
+D:\CUDA\/include\thrust/system/detail/generic/transform.inl
+D:\CUDA\/include\thrust/for_each.h
+D:\CUDA\/include\thrust/detail/for_each.inl
+D:\CUDA\/include\thrust/system/detail/generic/for_each.h
+D:\CUDA\/include\thrust/system/detail/adl/for_each.h
+D:\CUDA\/include\thrust/system/detail/sequential/for_each.h
+D:\CUDA\/include\thrust/detail/function.h
+D:\CUDA\/include\thrust/system/cpp/detail/for_each.h
+D:\CUDA\/include\thrust/system/cuda/detail/for_each.h
+D:\CUDA\/include\thrust/system/cuda/detail/for_each.inl
+D:\CUDA\/include\thrust/distance.h
+D:\CUDA\/include\thrust/detail/distance.inl
+D:\CUDA\/include\thrust/advance.h
+D:\CUDA\/include\thrust/detail/advance.inl
+D:\CUDA\/include\thrust/system/detail/generic/advance.h
+D:\CUDA\/include\thrust/system/detail/generic/advance.inl
+D:\CUDA\/include\thrust/system/detail/generic/distance.h
+D:\CUDA\/include\thrust/system/detail/generic/distance.inl
+D:\CUDA\/include\thrust/system/cuda/detail/execute_on_stream.h
+D:\CUDA\/include\thrust/system/detail/adl/transform.h
+D:\CUDA\/include\thrust/system/detail/sequential/transform.h
+D:\CUDA\/include\thrust/system/cpp/detail/transform.h
+D:\CUDA\/include\thrust/system/cuda/detail/transform.h
+D:\CUDA\/include\thrust/system/detail/adl/copy.h
+D:\CUDA\/include\thrust/system/detail/sequential/copy.h
+D:\CUDA\/include\thrust/system/detail/sequential/copy.inl
+D:\CUDA\/include\thrust/detail/dispatch/is_trivial_copy.h
+D:\CUDA\/include\thrust/system/detail/sequential/general_copy.h
+D:\CUDA\/include\thrust/system/detail/sequential/trivial_copy.h
+D:\CUDA\/include\thrust/system/cpp/detail/copy.h
+D:\CUDA\/include\thrust/system/cuda/detail/copy.h
+D:\CUDA\/include\thrust/system/cuda/detail/copy.inl
+D:\CUDA\/include\thrust/system/cuda/detail/copy_device_to_device.h
+D:\CUDA\/include\thrust/system/cuda/detail/copy_device_to_device.inl
+D:\CUDA\/include\thrust/system/cuda/detail/copy_cross_system.h
+D:\CUDA\/include\thrust/system/cuda/detail/copy_cross_system.inl
+D:\CUDA\/include\thrust/detail/temporary_array.h
+D:\CUDA\/include\thrust/iterator/detail/tagged_iterator.h
+D:\CUDA\/include\thrust/detail/contiguous_storage.h
+D:\CUDA\/include\thrust/iterator/detail/normal_iterator.h
+D:\CUDA\/include\thrust/detail/contiguous_storage.inl
+D:\CUDA\/include\thrust/detail/allocator/copy_construct_range.h
+D:\CUDA\/include\thrust/detail/allocator/copy_construct_range.inl
+D:\CUDA\/include\thrust/detail/allocator/default_construct_range.h
+D:\CUDA\/include\thrust/detail/allocator/default_construct_range.inl
+D:\CUDA\/include\thrust/uninitialized_fill.h
+D:\CUDA\/include\thrust/detail/uninitialized_fill.inl
+D:\CUDA\/include\thrust/system/detail/generic/uninitialized_fill.h
+D:\CUDA\/include\thrust/system/detail/generic/uninitialized_fill.inl
+D:\CUDA\/include\thrust/fill.h
+D:\CUDA\/include\thrust/detail/fill.inl
+D:\CUDA\/include\thrust/system/detail/generic/fill.h
+D:\CUDA\/include\thrust/generate.h
+D:\CUDA\/include\thrust/detail/generate.inl
+D:\CUDA\/include\thrust/system/detail/generic/generate.h
+D:\CUDA\/include\thrust/system/detail/generic/generate.inl
+D:\CUDA\/include\thrust/system/detail/adl/generate.h
+D:\CUDA\/include\thrust/system/detail/sequential/generate.h
+D:\CUDA\/include\thrust/system/cpp/detail/generate.h
+D:\CUDA\/include\thrust/system/cuda/detail/generate.h
+D:\CUDA\/include\thrust/system/detail/adl/fill.h
+D:\CUDA\/include\thrust/system/detail/sequential/fill.h
+D:\CUDA\/include\thrust/system/cpp/detail/fill.h
+D:\CUDA\/include\thrust/system/cuda/detail/fill.h
+D:\CUDA\/include\thrust/system/detail/adl/uninitialized_fill.h
+D:\CUDA\/include\thrust/system/detail/sequential/uninitialized_fill.h
+D:\CUDA\/include\thrust/system/cpp/detail/uninitialized_fill.h
+D:\CUDA\/include\thrust/system/cuda/detail/uninitialized_fill.h
+D:\CUDA\/include\thrust/detail/allocator/destroy_range.h
+D:\CUDA\/include\thrust/detail/allocator/destroy_range.inl
+D:\CUDA\/include\thrust/detail/allocator/fill_construct_range.h
+D:\CUDA\/include\thrust/detail/allocator/fill_construct_range.inl
+D:\CUDA\/include\thrust/detail/allocator/temporary_allocator.h
+D:\CUDA\/include\thrust/detail/allocator/tagged_allocator.h
+D:\CUDA\/include\thrust/detail/allocator/tagged_allocator.inl
+D:\CUDA\/include\thrust/memory.h
+D:\CUDA\/include\thrust/detail/temporary_buffer.h
+D:\CUDA\/include\thrust/system/detail/generic/temporary_buffer.h
+D:\CUDA\/include\thrust/system/detail/generic/temporary_buffer.inl
+D:\CUDA\/include\thrust/system/detail/adl/temporary_buffer.h
+D:\CUDA\/include\thrust/system/detail/sequential/temporary_buffer.h
+D:\CUDA\/include\thrust/system/cpp/detail/temporary_buffer.h
+D:\CUDA\/include\thrust/system/cuda/detail/temporary_buffer.h
+D:\CUDA\/include\thrust/detail/allocator/temporary_allocator.inl
+D:\visual studio 2013\VC\include\cassert
+D:\visual studio 2013\VC\include\assert.h
+D:\visual studio 2013\VC\include\crtdefs.h
+D:\CUDA\/include\thrust/detail/allocator/no_throw_allocator.h
+D:\CUDA\/include\thrust/detail/temporary_array.inl
+D:\CUDA\/include\thrust/system/cuda/detail/trivial_copy.h
+D:\CUDA\/include\thrust/system/cuda/detail/trivial_copy.inl
+D:\CUDA\/include\thrust/system/cuda/detail/trivial_copy.h
+D:\CUDA\/include\thrust/system/cuda/detail/trivial_copy.h
+D:\CUDA\/include\thrust/system/detail/adl/assign_value.h
+D:\CUDA\/include\thrust/system/detail/sequential/assign_value.h
+D:\CUDA\/include\thrust/system/cpp/detail/assign_value.h
+D:\CUDA\/include\thrust/system/detail/adl/iter_swap.h
+D:\CUDA\/include\thrust/system/detail/sequential/iter_swap.h
+D:\CUDA\/include\thrust/system/cpp/detail/iter_swap.h
+D:\CUDA\/include\thrust/system/cuda/detail/iter_swap.h
+D:\CUDA\/include\thrust/swap.h
+D:\CUDA\/include\thrust/detail/swap.inl
+D:\CUDA\/include\thrust/detail/swap_ranges.inl
+D:\CUDA\/include\thrust/system/detail/generic/swap_ranges.h
+D:\CUDA\/include\thrust/system/detail/generic/swap_ranges.inl
+D:\CUDA\/include\thrust/system/detail/adl/swap_ranges.h
+D:\CUDA\/include\thrust/system/detail/sequential/swap_ranges.h
+D:\CUDA\/include\thrust/system/cpp/detail/swap_ranges.h
+D:\CUDA\/include\thrust/system/cuda/detail/swap_ranges.h
+D:\CUDA\/include\thrust/detail/device_ptr.inl
+D:\CUDA\/include\thrust/device_reference.h
+D:\CUDA\/include\thrust/detail/device_reference.inl
+D:\CUDA\/include\thrust/sort.h
+D:\CUDA\/include\thrust/detail/sort.inl
+D:\CUDA\/include\thrust/system/detail/generic/sort.h
+D:\CUDA\/include\thrust/system/detail/generic/sort.inl
+D:\CUDA\/include\thrust/find.h
+D:\CUDA\/include\thrust/detail/find.inl
+D:\CUDA\/include\thrust/system/detail/generic/find.h
+D:\CUDA\/include\thrust/system/detail/generic/find.inl
+D:\CUDA\/include\thrust/reduce.h
+D:\CUDA\/include\thrust/detail/reduce.inl
+D:\CUDA\/include\thrust/system/detail/generic/reduce.h
+D:\CUDA\/include\thrust/system/detail/generic/reduce.inl
+D:\CUDA\/include\thrust/system/detail/generic/reduce_by_key.h
+D:\CUDA\/include\thrust/system/detail/generic/reduce_by_key.inl
+D:\CUDA\/include\thrust/scatter.h
+D:\CUDA\/include\thrust/detail/scatter.inl
+D:\CUDA\/include\thrust/system/detail/generic/scatter.h
+D:\CUDA\/include\thrust/system/detail/generic/scatter.inl
+D:\CUDA\/include\thrust/system/detail/adl/scatter.h
+D:\CUDA\/include\thrust/system/detail/sequential/scatter.h
+D:\CUDA\/include\thrust/system/cpp/detail/scatter.h
+D:\CUDA\/include\thrust/system/cuda/detail/scatter.h
+D:\CUDA\/include\thrust/scan.h
+D:\CUDA\/include\thrust/detail/scan.inl
+D:\CUDA\/include\thrust/system/detail/generic/scan.h
+D:\CUDA\/include\thrust/system/detail/generic/scan.inl
+D:\CUDA\/include\thrust/system/detail/generic/scan_by_key.h
+D:\CUDA\/include\thrust/system/detail/generic/scan_by_key.inl
+D:\CUDA\/include\thrust/replace.h
+D:\CUDA\/include\thrust/detail/replace.inl
+D:\CUDA\/include\thrust/system/detail/generic/replace.h
+D:\CUDA\/include\thrust/system/detail/generic/replace.inl
+D:\CUDA\/include\thrust/system/detail/adl/replace.h
+D:\CUDA\/include\thrust/system/detail/sequential/replace.h
+D:\CUDA\/include\thrust/system/cpp/detail/replace.h
+D:\CUDA\/include\thrust/system/cuda/detail/replace.h
+D:\CUDA\/include\thrust/system/detail/adl/scan.h
+D:\CUDA\/include\thrust/system/detail/sequential/scan.h
+D:\CUDA\/include\thrust/system/cpp/detail/scan.h
+D:\CUDA\/include\thrust/system/cuda/detail/scan.h
+D:\CUDA\/include\thrust/system/cuda/detail/scan.inl
+D:\CUDA\/include\thrust/system/cuda/detail/decomposition.h
+D:\CUDA\/include\thrust/system/detail/adl/scan_by_key.h
+D:\CUDA\/include\thrust/system/detail/sequential/scan_by_key.h
+D:\CUDA\/include\thrust/system/cpp/detail/scan_by_key.h
+D:\CUDA\/include\thrust/system/cuda/detail/scan_by_key.h
+D:\CUDA\/include\thrust/system/detail/adl/reduce.h
+D:\CUDA\/include\thrust/system/detail/sequential/reduce.h
+D:\CUDA\/include\thrust/system/cpp/detail/reduce.h
+D:\CUDA\/include\thrust/system/cuda/detail/reduce.h
+D:\CUDA\/include\thrust/system/cuda/detail/reduce.inl
+D:\CUDA\/include\thrust/system/detail/adl/reduce_by_key.h
+D:\CUDA\/include\thrust/system/detail/sequential/reduce_by_key.h
+D:\CUDA\/include\thrust/detail/type_traits/algorithm/intermediate_type_from_function_and_iterators.h
+D:\CUDA\/include\thrust/system/cpp/detail/reduce_by_key.h
+D:\CUDA\/include\thrust/system/cuda/detail/reduce_by_key.h
+D:\CUDA\/include\thrust/system/cuda/detail/reduce_by_key.inl
+D:\CUDA\/include\thrust/iterator/constant_iterator.h
+D:\CUDA\/include\thrust/iterator/detail/constant_iterator_base.h
+D:\CUDA\/include\thrust/iterator/discard_iterator.h
+D:\CUDA\/include\thrust/iterator/detail/discard_iterator_base.h
+D:\CUDA\/include\thrust/detail/range/head_flags.h
+D:\CUDA\/include\thrust/detail/range/tail_flags.h
+D:\CUDA\/include\thrust/system/cuda/detail/reduce_intervals.hpp
+D:\CUDA\/include\thrust/system/detail/adl/find.h
+D:\CUDA\/include\thrust/system/detail/sequential/find.h
+D:\CUDA\/include\thrust/system/cpp/detail/find.h
+D:\CUDA\/include\thrust/system/cuda/detail/find.h
+D:\CUDA\/include\thrust/system/detail/adl/sort.h
+D:\CUDA\/include\thrust/system/detail/sequential/sort.h
+D:\CUDA\/include\thrust/system/detail/sequential/sort.inl
+D:\CUDA\/include\thrust/reverse.h
+D:\CUDA\/include\thrust/detail/reverse.inl
+D:\CUDA\/include\thrust/system/detail/generic/reverse.h
+D:\CUDA\/include\thrust/system/detail/generic/reverse.inl
+D:\CUDA\/include\thrust/iterator/reverse_iterator.h
+D:\CUDA\/include\thrust/iterator/detail/reverse_iterator_base.h
+D:\CUDA\/include\thrust/iterator/detail/reverse_iterator.inl
+D:\CUDA\/include\thrust/system/detail/adl/reverse.h
+D:\CUDA\/include\thrust/system/detail/sequential/reverse.h
+D:\CUDA\/include\thrust/system/cpp/detail/reverse.h
+D:\CUDA\/include\thrust/system/cuda/detail/reverse.h
+D:\CUDA\/include\thrust/system/detail/sequential/stable_merge_sort.h
+D:\CUDA\/include\thrust/system/detail/sequential/stable_merge_sort.inl
+D:\CUDA\/include\thrust/merge.h
+D:\CUDA\/include\thrust/detail/merge.inl
+D:\CUDA\/include\thrust/system/detail/generic/merge.h
+D:\CUDA\/include\thrust/system/detail/generic/merge.inl
+D:\CUDA\/include\thrust/system/detail/adl/merge.h
+D:\CUDA\/include\thrust/system/detail/sequential/merge.h
+D:\CUDA\/include\thrust/system/detail/sequential/merge.inl
+D:\CUDA\/include\thrust/system/cpp/detail/merge.h
+D:\CUDA\/include\thrust/system/cuda/detail/merge.h
+D:\CUDA\/include\thrust/system/cuda/detail/merge.inl
+D:\CUDA\/include\thrust/tabulate.h
+D:\CUDA\/include\thrust/detail/tabulate.inl
+D:\CUDA\/include\thrust/system/detail/generic/tabulate.h
+D:\CUDA\/include\thrust/system/detail/generic/tabulate.inl
+D:\CUDA\/include\thrust/system/detail/adl/tabulate.h
+D:\CUDA\/include\thrust/system/detail/sequential/tabulate.h
+D:\CUDA\/include\thrust/system/cpp/detail/tabulate.h
+D:\CUDA\/include\thrust/system/cuda/detail/tabulate.h
+D:\CUDA\/include\thrust/system/detail/sequential/insertion_sort.h
+D:\CUDA\/include\thrust/system/detail/sequential/copy_backward.h
+D:\CUDA\/include\thrust/system/detail/sequential/stable_primitive_sort.h
+D:\CUDA\/include\thrust/system/detail/sequential/stable_primitive_sort.inl
+D:\CUDA\/include\thrust/system/detail/sequential/stable_radix_sort.h
+D:\CUDA\/include\thrust/system/detail/sequential/stable_radix_sort.inl
+D:\CUDA\/include\thrust/copy.h
+D:\CUDA\/include\thrust/detail/copy_if.h
+D:\CUDA\/include\thrust/detail/copy_if.inl
+D:\CUDA\/include\thrust/system/detail/generic/copy_if.h
+D:\CUDA\/include\thrust/system/detail/generic/copy_if.inl
+D:\CUDA\/include\thrust/system/detail/adl/copy_if.h
+D:\CUDA\/include\thrust/system/detail/sequential/copy_if.h
+D:\CUDA\/include\thrust/system/cpp/detail/copy_if.h
+D:\CUDA\/include\thrust/system/cuda/detail/copy_if.h
+D:\CUDA\/include\thrust/system/cuda/detail/copy_if.inl
+D:\CUDA\/include\thrust/system/detail/internal/decompose.h
+D:\CUDA\/include\thrust/system/cuda/detail/default_decomposition.h
+D:\CUDA\/include\thrust/system/cuda/detail/default_decomposition.inl
+D:\CUDA\/include\thrust/system/cuda/detail/runtime_introspection.h
+D:\CUDA\/include\thrust/system/cuda/detail/cuda_launch_config.h
+D:\CUDA\/include\thrust/system/cuda/detail/runtime_introspection.inl
+D:\CUDA\/include\thrust/system/cuda/detail/reduce_intervals.h
+D:\CUDA\/include\thrust/system/cuda/detail/reduce_intervals.inl
+D:\CUDA\/include\thrust/system/cuda/detail/extern_shared_ptr.h
+D:\CUDA\/include\thrust/system/cuda/detail/block/reduce.h
+D:\CUDA\/include\thrust/system/cuda/detail/detail/launch_closure.h
+D:\CUDA\/include\thrust/system/cuda/detail/detail/launch_closure.inl
+D:\CUDA\/include\thrust/system/cuda/detail/synchronize.h
+D:\CUDA\/include\thrust/system/cuda/detail/synchronize.inl
+D:\CUDA\/include\thrust/system/cuda/detail/detail/launch_calculator.h
+D:\CUDA\/include\thrust/system/cuda/detail/detail/launch_calculator.inl
+D:\CUDA\/include\thrust/system/cuda/detail/detail/alignment.h
+D:\CUDA\/include\thrust/system/cuda/detail/block/inclusive_scan.h
+D:\CUDA\/include\thrust/system/detail/sequential/partition.h
+D:\CUDA\/include\thrust/system/cpp/detail/sort.h
+D:\CUDA\/include\thrust/system/cuda/detail/sort.h
+D:\CUDA\/include\thrust/system/cuda/detail/sort.inl
+D:\CUDA\/include\thrust/system/cuda/detail/detail/stable_merge_sort.h
+D:\CUDA\/include\thrust/system/cuda/detail/detail/stable_merge_sort.inl
+D:\CUDA\/include\thrust/system/cuda/detail/detail/stable_sort_each.h
+D:\CUDA\/include\thrust/system/cuda/detail/detail/stable_sort_each.inl
+D:\CUDA\/include\thrust/system/cuda/detail/block/copy.h
+D:\CUDA\/include\thrust/system/cuda/detail/detail/merge.h
+D:\CUDA\/include\thrust/detail/integer_math.h
+D:\CUDA\/include\thrust/system/cuda/detail/detail/virtualized_smem_closure.h
+D:\CUDA\/include\thrust/system/cuda/detail/temporary_indirect_permutation.h
+D:\CUDA\/include\thrust/sequence.h
+D:\CUDA\/include\thrust/detail/sequence.inl
+D:\CUDA\/include\thrust/system/detail/generic/sequence.h
+D:\CUDA\/include\thrust/system/detail/generic/sequence.inl
+D:\CUDA\/include\thrust/system/detail/adl/sequence.h
+D:\CUDA\/include\thrust/system/detail/sequential/sequence.h
+D:\CUDA\/include\thrust/system/cpp/detail/sequence.h
+D:\CUDA\/include\thrust/system/cuda/detail/sequence.h
+D:\CUDA\/include\thrust/gather.h
+D:\CUDA\/include\thrust/detail/gather.inl
+D:\CUDA\/include\thrust/system/detail/generic/gather.h
+D:\CUDA\/include\thrust/system/detail/generic/gather.inl
+D:\CUDA\/include\thrust/system/detail/adl/gather.h
+D:\CUDA\/include\thrust/system/detail/sequential/gather.h
+D:\CUDA\/include\thrust/system/cpp/detail/gather.h
+D:\CUDA\/include\thrust/system/cuda/detail/gather.h
+D:\CUDA\/include\thrust/system/cuda/detail/detail/stable_primitive_sort.h
+D:\CUDA\/include\thrust/system/cuda/detail/detail/stable_primitive_sort.inl
+D:\CUDA\/include\thrust/system/cuda/detail/detail/stable_radix_sort.h
+D:\CUDA\/include\thrust/system/cuda/detail/detail/stable_radix_sort.inl
+D:\CUDA\/include\thrust/system/cuda/detail/cub.h
+D:\CUDA\/include\thrust/system/cuda/detail/cub/util_namespace.cuh
+D:\CUDA\/include\thrust/system/cuda/detail/cub/cub.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block/block_histogram.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\specializations/block_histogram_sort.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\specializations\../../block/block_radix_sort.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\block_exchange.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\../util_ptx.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\util_type.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\util_macro.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\util_arch.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\block_radix_rank.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\../thread/thread_reduce.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\thread\../thread/thread_operators.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\../thread/thread_scan.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\../block/block_scan.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\specializations/block_scan_raking.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\specializations\../../block/block_raking_layout.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\specializations\../../warp/warp_scan.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\warp\specializations/warp_scan_shfl.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\warp\specializations/warp_scan_smem.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\warp\specializations\../../thread/thread_load.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\warp\specializations\../../thread/thread_store.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\specializations/block_scan_warp_scans.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\specializations\../../block/block_discontinuity.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\specializations/block_histogram_atomic.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block/block_load.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block/block_reduce.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\specializations/block_reduce_raking.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\specializations\../../warp/warp_reduce.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\warp\specializations/warp_reduce_shfl.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\warp\specializations\../../util_debug.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\warp\specializations/warp_reduce_smem.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\specializations/block_reduce_raking_commutative_only.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block\specializations/block_reduce_warp_reductions.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block/block_store.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block/block_shift.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device/device_histogram.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch/device_histogram_dispatch.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch\../../block_sweep/block_histogram_sweep.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block_sweep\specializations/block_histogram_gatomic_sweep.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block_sweep\specializations/block_histogram_satomic_sweep.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block_sweep\specializations/block_histogram_sort_sweep.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block_sweep\../grid/grid_mapping.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block_sweep\../grid/grid_even_share.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block_sweep\../grid/grid_queue.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch\../../util_device.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device/device_partition.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch/device_select_dispatch.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch\device_scan_dispatch.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch\../../block_sweep/block_scan_sweep.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block_sweep\block_scan_prefix_operators.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\block_sweep\../iterator/cache_modified_input_iterator.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch\../../block_sweep/block_select_sweep.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device/device_radix_sort.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch/device_radix_sort_dispatch.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch\../../block_sweep/block_radix_sort_upsweep.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch\../../block_sweep/block_radix_sort_downsweep.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device/device_reduce.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch/device_reduce_dispatch.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch\../../block_sweep/block_reduce_sweep.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch\../../iterator/constant_input_iterator.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch\../../iterator/arg_index_input_iterator.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch/device_reduce_by_key_dispatch.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device\dispatch\../../block_sweep/block_reduce_by_key_sweep.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device/device_scan.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\device/device_select.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\host/spinlock.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\iterator/cache_modified_output_iterator.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\iterator/counting_input_iterator.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\iterator/tex_obj_input_iterator.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\iterator/tex_ref_input_iterator.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\iterator/transform_input_iterator.cuh
+d:\cuda\include\thrust\system\cuda\detail\cub\util_allocator.cuh
+D:\visual studio 2013\VC\include\set
+D:\visual studio 2013\VC\include\xtree
+D:\visual studio 2013\VC\include\map
+D:\visual studio 2013\VC\include\math.h
+D:\CUDA\/include\thrust/partition.h
+D:\CUDA\/include\thrust/detail/partition.inl
+D:\CUDA\/include\thrust/system/detail/generic/partition.h
+D:\CUDA\/include\thrust/system/detail/generic/partition.inl
+D:\CUDA\/include\thrust/remove.h
+D:\CUDA\/include\thrust/detail/remove.inl
+D:\CUDA\/include\thrust/system/detail/generic/remove.h
+D:\CUDA\/include\thrust/system/detail/generic/remove.inl
+D:\CUDA\/include\thrust/system/detail/adl/remove.h
+D:\CUDA\/include\thrust/system/detail/sequential/remove.h
+D:\CUDA\/include\thrust/system/cpp/detail/remove.h
+D:\CUDA\/include\thrust/system/cuda/detail/remove.h
+D:\CUDA\/include\thrust/count.h
+D:\CUDA\/include\thrust/detail/count.inl
+D:\CUDA\/include\thrust/system/detail/generic/count.h
+D:\CUDA\/include\thrust/system/detail/generic/count.inl
+D:\CUDA\/include\thrust/transform_reduce.h
+D:\CUDA\/include\thrust/detail/transform_reduce.inl
+D:\CUDA\/include\thrust/system/detail/generic/transform_reduce.h
+D:\CUDA\/include\thrust/system/detail/generic/transform_reduce.inl
+D:\CUDA\/include\thrust/system/detail/adl/transform_reduce.h
+D:\CUDA\/include\thrust/system/detail/sequential/transform_reduce.h
+D:\CUDA\/include\thrust/system/cpp/detail/transform_reduce.h
+D:\CUDA\/include\thrust/system/cuda/detail/transform_reduce.h
+D:\CUDA\/include\thrust/system/detail/adl/count.h
+D:\CUDA\/include\thrust/system/detail/sequential/count.h
+D:\CUDA\/include\thrust/system/cpp/detail/count.h
+D:\CUDA\/include\thrust/system/cuda/detail/count.h
+D:\CUDA\/include\thrust/system/detail/adl/partition.h
+D:\CUDA\/include\thrust/system/cpp/detail/partition.h
+D:\CUDA\/include\thrust/system/cuda/detail/partition.h
+D:\CUDA\/include\thrust/detail/trivial_sequence.h
+c:\users\cmdadmin\desktop\glut_fluid_buoyancy_finished\Kernel_implement.cuh
+D:\visual studio 2013\VC\include\math.h
+D:\CUDA\common\inc\helper_math.h
+D:\CUDA\/include\cuda_runtime.h
+D:\CUDA\/include\math_constants.h
+c:\users\cmdadmin\desktop\glut_fluid_buoyancy_finished\Kernel.cuh
+D:\CUDA\/include\vector_types.h
